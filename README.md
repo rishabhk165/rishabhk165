@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Rishabh Kumar 👋
 
-<!--
-**rishabhk165/rishabhk165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary:
+- 🚀 Proficient in Front-End Development, specializing in crafting captivating UI/UX designs and building responsive web applications using **HTML, CSS, and JavaScript**.
+- 🐍 Proficient in Python, using it for various projects and exploring its applications in **Data Science and beyond**.
+- 🌱 Beginner in Java, with a growing interest in mastering this versatile programming language.
+- 🧠 Exploring the fascinating realms of **Data Science, Artificial Intelligence, and Machine Learning**, eager to delve deeper into these exciting fields.
 
-Here are some ideas to get you started:
+## Key Skills:
+- 💻 Front-End Development | HTML | CSS | JavaScript
+- ☕ Java (Beginner)
+- 🐍 Python
+- 🧠 Data Science | AI | Machine Learning (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub: [rishabhk165](https://github.com/rishabhk165) 
+(Check out my Front-End Development projects and more)
+
+## LinkedIn: [Rishabh Kumar](https://www.linkedin.com/in/rishabh-kumar-abb345263/)
+(Connect with me on LinkedIn)
+
+Let's connect to explore the world of tech together! 🌐
+
+**#ComputerScience #DataScience #FrontEndDevelopment #Python #Java #AI #MachineLearning #HTML #CSS #JavaScript #UIUX #TechEnthusiast #FootballLover #ThirdYearStudent**
