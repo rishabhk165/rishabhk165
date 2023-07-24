@@ -12,12 +12,9 @@
 - 🐍 Python
 - 🧠 Data Science | AI | Machine Learning (Beginner)
 
-## GitHub: [rishabhk165](https://github.com/rishabhk165) 
-(Check out my Front-End Development projects and more)
-
 ## LinkedIn: [Rishabh Kumar](https://www.linkedin.com/in/rishabh-kumar-abb345263/)
 (Connect with me on LinkedIn)
 
 Let's connect to explore the world of tech together! 🌐
 
-**#ComputerScience #DataScience #FrontEndDevelopment #Python #Java #AI #MachineLearning #HTML #CSS #JavaScript #UIUX #TechEnthusiast #FootballLover #ThirdYearStudent**
+**#ComputerScience #DataScience #FrontEndDevelopment #Python #Java #AI #MachineLearning #HTML #CSS #JavaScript #UIUX #TechEnthusiast  #ThirdYearStudent**
