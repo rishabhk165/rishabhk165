@@ -12,7 +12,7 @@
 - 🐍 Python
 - 🧠 Data Science | AI | Machine Learning (Beginner)
 
-## LinkedIn: [Rishabh Kumar](https://www.linkedin.com/in/rishabh-kumar-abb345263/)
+## LinkedIn: [Rishabh Kumar](https://www.linkedin.com/in/rishabhkumar165/)
 (Connect with me on LinkedIn)
 
 Let's connect to explore the world of tech together! 🌐
