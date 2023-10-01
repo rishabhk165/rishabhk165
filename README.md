@@ -1,4 +1,4 @@
- Hello, I'm Rishabh Kumar 👋
+# Hello, I'm Rishabh Kumar 👋
 
 ## Summary:
 - 🚀 Proficient in Front-End Development, specializing in crafting captivating UI/UX designs and building responsive web applications using **HTML, CSS, and JavaScript**.
